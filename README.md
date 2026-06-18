@@ -82,5 +82,3 @@ Displays the total number of recovered patients.
 - Payment analysis helps identify commonly used payment methods.
 
 ---
-
-## 📂 Project Structure
